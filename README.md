@@ -2,8 +2,14 @@
 
 **14기 차지현**
 
-## 마크다운
+#### 마크다운
 
 - [마크다운 문법](./src/md/markdown.md)
 - [1주차 회고](./src/md/week1-retrospect.md)
+
+---
+
+#### HTML, CSS
+
+- [아바타](./src/avatars/avatars.html)
 - [2주차 회고](./src/md/week2-retrospect.md)
