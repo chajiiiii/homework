@@ -1,1 +1,51 @@
-/* 여기에 스타일을 구현해 주세요 */
+body {
+  background-color: #ffffff;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.avatars {
+  display: flex;
+  width: 396px;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 100px;
+}
+
+.avatar {
+  position: relative;
+  box-sizing: border-box;
+}
+
+img {
+  width: 64px;
+  height: 64px;
+  display: block;
+}
+
+.indicator {
+  border: 1px solid #ffffff;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 44px;
+  right: 0px;
+  z-index: 2;
+}
+
+.active {
+  background-color: #4cfe88;
+}
+
+.inactive {
+  background-color: #dbdbdb;
+}
+
+img,
+.indicator {
+  border-radius: 50%;
+}
