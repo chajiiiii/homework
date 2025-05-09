@@ -13,5 +13,5 @@
 
 - [아바타](./src/avatars/avatars.html)
 - [2주차 회고](./src/md/week2-retrospect.md)
+- [로그인](./src/login/login.html)
 - [3주차 회고](./src/md/week3-retrospect.md)
-- [4주차 회고](./src/md/week4-retrospect.md)
